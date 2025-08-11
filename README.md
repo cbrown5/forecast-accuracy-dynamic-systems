@@ -1,6 +1,6 @@
 # Assessing predictive accuracy of species abundance models in dynamic systems
 
-Code to support the paper: [Christopher J. Brown, Christina Buelow, Rick D. Stuart-Smith, Neville Barrett, Graham Edgar, Elizabeth Oh2025, "Assessing predictive accuracy of species abundance models in dynamic systems"  Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.70105](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.70105). Please cite that paper if using these methods. 
+Code to support the paper: [Christopher J. Brown, Christina Buelow, Rick D. Stuart-Smith, Neville Barrett, Graham Edgar, Elizabeth Oh (2025), "Assessing predictive accuracy of species abundance models in dynamic systems"  Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.70105](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.70105). Please cite that paper if using these methods. 
 
 ### Data availability 
 Data included here are for reproducibility only. If you are wanting to publish original work with this data please see the sources below
